@@ -1,0 +1,4 @@
+diff:180
+average:200
+raio_min:5
+raio_max:55
